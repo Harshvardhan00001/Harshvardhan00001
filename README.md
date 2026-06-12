@@ -30,7 +30,7 @@
 
 ```javascript
 const developer = {
-  name:        "Your Name",
+  name:        Harshvardhan,
   role:        "MERN Stack Developer",
   learning:    ["Cybersecurity", "Ethical Hacking", "Network Security"],
   certified:   ["PBEL Virtual Intern"],

@@ -89,18 +89,7 @@ const developer = {
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff" height="160"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=midnight-purple&hide_border=true&background=0f0c29&stroke=302b63&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="60%"/>
-
-</div>
-
----
 
 ## 🔐 Currently Exploring
 

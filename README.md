@@ -2,10 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%2C%20I'm%20Harshvardhan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Dev%20%7C%20Cybersecurity%20Learner&descAlignY=58&descSize=18" width="100%"/>
 
-<!-- Profile Views Counter -->
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOURUSERNAME&count_bg=%230f0c29&title_bg=%23302b63&icon=github.svg&icon_color=%23ffffff&title=Profile+Views&edge_flat=false)
-![GitHub followers](https://img.shields.io/github/followers/YOURUSERNAME?label=Followers&style=flat&color=302b63&labelColor=0f0c29)
-![GitHub stars](https://img.shields.io/github/stars/YOURUSERNAME?label=Total%20Stars&style=flat&color=302b63&labelColor=0f0c29)
+
 
 </div>
 
@@ -139,6 +136,6 @@ $ next_goal
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
-*"Security is not a product, but a process." — Bruce Schneier*
+
 
 </div>

@@ -1,29 +1,58 @@
-<div align="center">
+<h1>DIGITAL HEROS TASK</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%2C%20I'm%20Harshvardhan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Dev%20%7C%20Cybersecurity%20Learner&descAlignY=58&descSize=18" width="100%"/>
+# 🎓 CGPA Calculator
 
+A clean, fast, and free CGPA calculator built for students to track their academic performance across semesters — no signup, no ads, no cost.
 
-
-</div>
-
-<div>
-  DIGITAL HEROS TASK
-</div>
+🔗 **Live Demo:** [digital-heros-task-cgpa-calculator.vercel.app](https://digital-heros-task-cgpa-calculator.vercel.app/)
 
 ---
 
-<div align="center">
+## ✨ Features
 
-```
-╔══════════════════════════════════════════════════════╗
-║  🚀  Full-Stack Engineer building secure web apps    ║
-║  🔐  Diving deep into Cybersecurity & Ethical Hacking ║
-║  🏆  PBEL Virtual Intern Certified                   ║
-║  🌱  Turning vulnerabilities into strengths           ║
-╚══════════════════════════════════════════════════════╝
-```
-
-</div>
+- Calculate **SGPA** for each semester
+- Calculate cumulative **CGPA** across all semesters
+- Supports **credit-weighted** grade calculation
+- Instant results — no page reload
+- Clean, mobile-friendly UI
 
 ---
 
+## 🛠️ Built With
+
+- [React](https://react.dev/) — UI framework
+- [Vite](https://vitejs.dev/) — fast dev & build tool
+- [Vercel](https://vercel.com/) — free deployment
+
+---
+
+## 🚀 Run Locally
+
+```bash
+git clone https://github.com/Harshvardhan00001/Digital_Heros_task_cgpa_calculator.git
+cd Digital_Heros_task_cgpa_calculator
+npm install
+npm run dev
+```
+
+Open [http://localhost:5173](http://localhost:5173) in your browser.
+
+---
+
+## 📦 Build for Production
+
+```bash
+npm run build
+```
+
+---
+
+## 👤 Author
+
+**Harshvardhan Singh Negi**
+
+---
+
+## 🏆 Built for Digital Heroes
+
+This project was built as part of the [Digital Heroes](https://digitalheroesco.com) trial task.

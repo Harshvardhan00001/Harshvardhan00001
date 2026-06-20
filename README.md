@@ -6,6 +6,8 @@ A clean, fast, and free CGPA calculator built for students to track their academ
 
 🔗 **Live Demo:** [digital-heros-task-cgpa-calculator.vercel.app](https://digital-heros-task-cgpa-calculator.vercel.app/)
 
+github:https://github.com/Harshvardhan00001/Digital_Heros_task_cgpa_calculator
+
 ---
 
 ## ✨ Features

@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&width=650&lines=Hey+there%2C+I'm+Harshvardhan+%F0%9F%91%8B;Full+Stack+MERN+Developer;350%2B+LeetCode+Problems+Solved;Currently+Learning+Cybersecurity" alt="Typing SVG" />
 </h1>
-<p align="center">
+<p align="center" font-size="extra-bold">
   <img src="https://komarev.com/ghpvc/?username=Harshvardhan00001&color=00d9ff&style=flat-square&label=Profile+Views" />
 </p>
 

@@ -1,6 +1,10 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&width=650&lines=Hey+there%2C+I'm+Harshvardhan+%F0%9F%91%8B;Full+Stack+MERN+Developer;350%2B+LeetCode+Problems+Solved;Currently+Learning+Cybersecurity" alt="Typing SVG" />
 </h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harshvardhan00001&color=00d9ff&style=flat-square&label=Profile+Views" />
+</p>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -100,13 +104,10 @@ I'm a **Full Stack MERN Developer** building production-ready web apps and solvi
 If you're into MERN, DSA, or cybersecurity — let's talk. Always open to collaborations, freelance work, or just a good tech conversation.
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
+  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/harshvardhan-singh-negi-628857280?utm_source=share_via&utm_content=profile&utm_medium=member_android)">LinkedIn</a> •
   <a href="https://leetcode.com/u/Harshvardhan0001">LeetCode</a> •
-  <a href="mailto:youremail@gmail.com">Email</a>
+
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harshvardhan00001&color=00d9ff&style=flat-square&label=Profile+Views" />
-</p>

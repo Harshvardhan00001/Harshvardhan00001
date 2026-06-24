@@ -104,7 +104,7 @@ I'm a **Full Stack MERN Developer** building production-ready web apps and solvi
 If you're into MERN, DSA, or cybersecurity — let's talk. Always open to collaborations, freelance work, or just a good tech conversation.
 
 <p align="center">
-  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/harshvardhan-singh-negi-628857280?utm_source=share_via&utm_content=profile&utm_medium=member_android)">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/harshvardhan-singh-negi-628857280?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a> •
   <a href="https://leetcode.com/u/Harshvardhan0001">LeetCode</a> •
 
 </p>

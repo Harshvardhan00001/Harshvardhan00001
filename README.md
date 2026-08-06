@@ -20,11 +20,8 @@ const developer = {
   role:         "Full Stack Developer",
   stack:        ["React.js", "Node.js", "Express.js", "MongoDB", "TypeScript"],
   languages:    ["Java", "Python", "JavaScript", "TypeScript", "SQL"],
-  bigData:      ["Apache Hadoop", "Apache Spark"],
-  cloud:        ["AWS", "Microsoft Azure", "Google Cloud Platform"],
   cybersecurity:"Ex-Intern @ IBM-PBEL | Burp Suite, DVWA, SIEM",
   dsa:          "350+ LeetCode problems solved",
-  education:    "B.Tech CSE @ Lloyd Institute of Engineering & Technology (2023–2027)",
   location:     "India 🇮🇳",
   available:    true, // Open to opportunities
 };
